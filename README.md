@@ -19,3 +19,11 @@ Afficher les nombres de 1 à 100. En remplaçant le nombre par un mot selon cert
  - Le mot Fizz s'il est multiple de 3
  - Le mot Buzz s'il est multiple de 5
  - Le mot FizzBuzz s'il est multiple de 3 et de 5  
+
+##Exercice 5
+Faire une fonction qui prend en parametre deux chaines de caractère et qui retourne la fusion de ces deux chaines.
+
+##Exercice 6
+Soit le tableau 'langage = array("HTML","CSS","Javascript","PHP")'  
+Faire une fontion qui prend un tableau en parametre et qui retourne un tableau trié par ordre alphabétique.  
+Faire une fonction qui prend en parametre un tableau et qui retourne une chaine avec la fusion de toutes les lignes du taleau.
