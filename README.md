@@ -26,4 +26,4 @@ Faire une fonction qui prend en parametre deux chaines de caractère et qui reto
 ##Exercice 6
 Soit le tableau `langage = array("HTML","CSS","Javascript","PHP")`  
 Faire une fontion qui prend un tableau en parametre et qui retourne un tableau trié par ordre alphabétique.  
-Faire une fonction qui prend en parametre un tableau et qui retourne une chaine avec la fusion de toutes les lignes du taleau.
+Faire une fonction qui prend en parametre un tableau et qui retourne une chaine avec la fusion de toutes les lignes du tableau.
