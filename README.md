@@ -3,7 +3,7 @@ Vous trouverez ici une série d'exercice à faire dans l'ordre et à mettre dans
 Pensez à l'indentation !!!  
 
 ##Exercice 1
-Faire deux variable avec des chiffres et afficher l'addition de ces deux chiffres, puis la multiplication.
+Faire deux variables avec des chiffres et afficher l'addition de ces deux chiffres, puis la multiplication.
 
 ##Exercice 2
 Soit une variable contenant la chaine :
